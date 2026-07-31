@@ -1,0 +1,12 @@
+//write a program to display good morning
+//himanshu herma
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+	clrscr();
+
+	printf("himanshu herma pedak road masum school near marketing yard");
+
+	getch();
+}

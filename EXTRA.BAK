@@ -1,0 +1,19 @@
+//write a program to display result pass or fail
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+	int x, y;
+	clrscr();
+	printf("\n enter any number :");
+	scanf("%d",&x);
+	if(y>=25)
+	{
+		printf("\n   pass");
+	}
+	else
+	{
+		printf("\n fail");
+	}
+	getch();
+}
